@@ -1,0 +1,9 @@
+﻿# .gitignore
+
+*.tmp
+*.suo
+*.cache
+*/bin/*
+*/obj/*
+/TestProj/ConsoleApplication1/bin/Debug
+/TestProj/ConsoleApplication1/obj/Debug
