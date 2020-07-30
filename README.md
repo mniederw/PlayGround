@@ -15,7 +15,7 @@ more see: https://shields.io/
 
 
 
-- Admin/               | t1
-  - Developers/        | t3
-  - DevDocs/           | wwwwwwwww oooooooooooooooo rrrrrrrrrrrrrr dddddddddddddddddddd
+- Admin/               - t1
+  - Developers/        - t3
+  - DevDocs/           _ wwwwwwwww oooooooooooooooo rrrrrrrrrrrrrr dddddddddddddddddddd
 - DevDocs/             | wwwwwwwww oooooooooooooooo rrrrrrrrrrrrrr dddddddddddddddddddd
