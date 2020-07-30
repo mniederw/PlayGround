@@ -12,3 +12,12 @@ more see: https://shields.io/
 
 
 <img alt="Xibase"          src="https://img.shields.io/website/https/xibase.zapto.org/mn.svg?label=xibase.zapto.org">
+
+
+
+Folder Structure       | Description
+-----------------------|-------------------------------------------------------------------------------------------------------
+  - Admin/             | t1
+    - Developers/      | t3
+    - DevDocs/         | wwwwwwwww oooooooooooooooo rrrrrrrrrrrrrr dddddddddddddddddddd wwwwwwwww oooooooooooooooo rrrrrrrrrrrrrr dddddddddddddddddddd 
+    - DevDocs/         | wwwwwwwww oooooooooooooooo rrrrrrrrrrrrrr dddddddddddddddddddd wwwwwwwww oooooooooooooooo rrrrrrrrrrrrrr dddddddddddddddddddd 
